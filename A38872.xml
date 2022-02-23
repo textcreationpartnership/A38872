@@ -1,0 +1,607 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact account of the trials of the several persons arraigned at the Sessions-house in the Old-Bailey for London &amp; Middlesex beginning on Wednesday, Decemb. 11, 1678 and ending the 12th of the same month.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 85 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38872</idno>
+            <idno type="STC">Wing E3590</idno>
+            <idno type="STC">ESTC R3294</idno>
+            <idno type="EEBO-CITATION">11789033</idno>
+            <idno type="OCLC">ocm 11789033</idno>
+            <idno type="VID">49156</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49156)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 491:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact account of the trials of the several persons arraigned at the Sessions-house in the Old-Bailey for London &amp; Middlesex beginning on Wednesday, Decemb. 11, 1678 and ending the 12th of the same month.</title>
+               </titleStmt>
+               <extent>38 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Hills,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49156:1"/>
+            <pb facs="tcp:49156:1" rendition="simple:additions"/>
+            <p>AN Exact Account OF THE TRIALS Of the ſeveral Perſons ARRAIGNED At the <hi>Seſſions-houſe</hi> in the <hi>Old-Bailey</hi> For <hi>LONDON</hi> &amp; <hi>MIDDLESEX.</hi>
+            </p>
+            <p>Beginning on <hi>Wedneſday, Decemb.</hi> 11. 1678. and ending the 12<hi rend="sup">th</hi> of the ſame Month.</p>
+            <p>Licenſed, <hi>Decemb.</hi> 18th. 1678. <hi>Roger L'Eſtrange.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. Hills,</hi> and are to be ſold by <hi>L. Curtiſs</hi> in <hi>Goat-Court</hi> upon <hi>Ludgate-hill.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49156:2"/>
+            <pb n="3" facs="tcp:49156:2"/>
+            <head>At the General Seſſions of the Peace, Seſſions of <hi>Oyer</hi> and <hi>Terminer,</hi> and Gaol-Delivery of <hi>Nevvgate,</hi> holden for the City of <hi>London</hi> and County of <hi>Middleſex, De<g ref="char:EOLhyphen"/>cemb. 11<hi rend="sup">th.</hi> Anno Regni</hi> Caroli Secundi <hi>Re<g ref="char:EOLhyphen"/>gis 30. Annoque Dom. 1678.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lord Mayor and three other Juſtices being ſate, two Commiſſions were read, one of <hi>Oyer and Terminer,</hi> and the other of Gaol-delivery of <hi>Newgate;</hi> and after that the uſu<g ref="char:EOLhyphen"/>al Proclamation for the attendance of thoſe who had any thing to do there was made:</p>
+            <p>The Jurors for <hi>London,</hi> that had been Im<g ref="char:EOLhyphen"/>pannell'd and Summon'd, were called to appear, and the Defaulters Recorded; and the like for the County of <hi>Middleſex.</hi>
+            </p>
+            <p>The Clerk Arraigned ſome of the Priſoners on <hi>London</hi>-ſide, whoſe Names and Offences were as followeth.</p>
+            <div type="arraignments">
+               <head>ARRAIGNMENTS.</head>
+               <p n="1">1. <hi>Suſan Banſter, alias Green,</hi> Indicted for ſtealing of Goods to the value of 13 <hi>l.</hi> To the Indictment ſhe pleaded Guilty. She was one that had been Convicted before of Felony, and was to be Tranſported; but as ſhe was going, committed this Theft.</p>
+               <p n="2">2. <hi>Stephen Arrowſmith</hi> Indicted, for that he, the 7th. of <hi>July</hi> laſt, did raviſh and abuſe one <hi>Elizabeth Hopkins,</hi> an Infant, of the age of eight years, againſt the form of the Statute in that caſe. To the Indictment he pleaded Not Guilty, and put himſelf on the Countrey.</p>
+               <p n="3">3. <hi>John Baltee</hi> Indicted, for that he, the 3. <hi>Decem.</hi> 1678. at the Pariſh of St. <hi>Bennet Fink,</hi> did ſteal a Silver Tankard of the value of 5 <hi>l.</hi> from one <hi>Thomas Browning.</hi> He pleaded Not Guilty, and put himſelf upon the Countrey.</p>
+               <p n="4">4. <hi>James Bateman</hi> Indicted, for that he, the 25th. of <hi>Novem.</hi> 1678. did ſteal a Silver Tankard of 5 <hi>l.</hi> value, from one <hi>Nicholas
+<pb n="4" facs="tcp:49156:3"/>Jackſon.</hi> He pleaded Not Guilty, and put himſelf on the Countrey.</p>
+               <p n="5">5. <hi>Hanna Henman</hi> Indicted, for that ſhe, the 12th. <hi>Novemb.</hi> 1678. at the Pariſh of St. <hi>Edmund the King</hi> in <hi>Lumbard-ſtreet,</hi> did ſteal from <hi>Thomas Rutty</hi> ſeventeen yards of <hi>Venetian</hi> Silk, of 7 <hi>l.</hi> value. She pleaded Not Guilty, and put her ſelf upon the Countrey.</p>
+               <p n="6">6. <hi>William Shakesby</hi> Indicted, for that he, the 4th. of <hi>Novemb.</hi> 1678. at the Pariſh of St. <hi>Sepulchres,</hi> did ſteal and drive away five Bullocks, colour black, of the value each of them 5 <hi>l.</hi> and one Bullock colour Brindle, of 5 <hi>l.</hi> value, of the Goods of <hi>William</hi> Lord <hi>Petré.</hi> He confeſs'd himſelf Guilty of that and all other Of<g ref="char:EOLhyphen"/>fences within the benefit of Clergy.</p>
+               <p>Then the Clerk for <hi>Middleſex</hi> Arraigned ſome of the Priſoners in that County, <hi>viz.</hi>
+               </p>
+               <p n="1">1. <hi>Samuel Thompſon</hi> Indicted, for that he the 4th. <hi>Novemb.</hi> 1678. did ſteal a Silver Cup, of the value of 20 <hi>s</hi> from <hi>Thomas Halſtead.</hi> He pleaded Not Guilty, and put himſelf upon the Countrey.</p>
+               <p n="2">2. <hi>Mary Read</hi> Indicted, for that ſhe, the 22. <hi>Novemb.</hi> 1678. did ſteal a Gold Ring of the value of 7 <hi>s.</hi> from <hi>Stephen Higgins.</hi> She pleaded Not Guilty, and put her ſelf upon the Countrey.</p>
+               <p n="3">3. <hi>Margaret Wood, alias Alexander,</hi> Indicted, for that ſhe the 7th. <hi>Octob.</hi> 1678. did ſteal from one <hi>Robert Lambert</hi> a Silver Cup, of the value of 9 <hi>s.</hi> She pleaded Not Guilty, and put her ſelf upon the Countrey.</p>
+               <p n="4">4. <hi>Mary Hipkins</hi> and <hi>Jane Baly</hi> Indicted, for ſtealing ſome Li<g ref="char:EOLhyphen"/>nen of 30 <hi>s.</hi> value, from <hi>Thomas Burdekin,</hi> 21 <hi>Nov.</hi> 1678. They both pleaded Not Guilty, and put themſelves upon the Countrey.</p>
+               <p n="5">5. <hi>John Leak</hi> of <hi>White-chappel</hi> Indicted, for that he the 16th. <hi>Novemb.</hi> 1678. did ſteal two Pieces of Broad-cloth from one <hi>Wil<g ref="char:EOLhyphen"/>liam Mackham,</hi> off the Tenters in <hi>Goodmans Fields,</hi> &amp;c. He plead<g ref="char:EOLhyphen"/>ed Not Guilty, and put himſelf upon the Countrey.</p>
+               <p n="6">6. <hi>Thomas Napton</hi> of <hi>Shoreditch</hi> Indicted, for that he, the 3 <hi>d.</hi>
+                  <hi>Decemb.</hi> 1678. 40 yards of Broad-cloath, of the value of 16 <hi>s.</hi>
+                  <hi>per yard,</hi> did ſteal from one <hi>Ralph Walford;</hi> and 20 yards more from one <hi>Anthrobus.</hi> To which he pleaded Not Guilty, and put himſelf upon the Countrey.</p>
+               <p n="7">7. <hi>Anne Moundſel</hi> of <hi>Holborn</hi> Indicted, for that ſhe the 4th. <hi>Nov.</hi> 1678. a Stuff Gown and Peticoat, and ſome Linen of ſmall value, did ſteal from <hi>Mary Braſier.</hi> To this ſhe pleaded Not Guilty, and put her ſelf upon the Countrey.</p>
+               <pb n="5" facs="tcp:49156:3"/>
+               <p n="8">8. <hi>Margaret Smith</hi> Indicted, for that ſhe, the 17th. <hi>Octob.</hi> 1678. did ſteal ſix yards of Silk of a ſmall value, two Silver Caudle Cups 3 <hi>l.</hi> 10 <hi>s.</hi> one Silver Salt cellar 30 <hi>s.</hi> one Silver Porringer 10 <hi>s.</hi> four Silver Spoons 1 <hi>l.</hi> 4 <hi>s.</hi> a Livery Gown 3 <hi>l.</hi> a Chamlet Cloak 30 <hi>s.</hi> and 15 <hi>l.</hi> in Money, from one <hi>Meſſinger.</hi> She pleaded Not Guilty, and put her ſelf on the Countrey.</p>
+               <p n="9">9. <hi>John Johnſon</hi> and <hi>Thomas Johnſon</hi> Indicted, for taking away 950 <hi>l.</hi> weight of Lead from off the Pariſh Church of <hi>Stepney,</hi> be<g ref="char:EOLhyphen"/>ing thereto faſtned. To this Treſpaſs they pleaded Not Guilty, and put themſelves upon the Countrey.</p>
+               <p>Then the Grand Jury for <hi>London,</hi> coming in to bring in their Bills, were ſworn anew, to enquire upon the New Commiſſions. Which being done, the Clerk for <hi>London</hi> Arraigned another Pri<g ref="char:EOLhyphen"/>ſoner, <hi>viz.</hi>
+               </p>
+               <p n="10">10. <hi>Joſeph Brown,</hi> for that he, the 16th. <hi>Novem.</hi> 1678. at <hi>All-Hallows by the Wall,</hi> 100 yards of black Worſted Crape, of the va<g ref="char:EOLhyphen"/>lue of 8 <hi>l.</hi> of the Goods of <hi>Richard Croke,</hi> did ſteal; which he con<g ref="char:EOLhyphen"/>feſſed himſelf guilty of, and of all other offences within benefit of Clergy.</p>
+            </div>
+            <div type="trial_accounts">
+               <p>The Priſoners for <hi>London</hi> were called to the Bar to look to their Challenges, and the Petty-Jury were ſworn, whoſe names follow: <hi>Franous Kenton, James Lapley, William Hewel, Samuel Williams, William Salter, Richard Ketch, Nicholas Ridley, William Standen, Ralph Cook, William Whitwell, Joaſh Ba<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eman,</hi> and <hi>Anthony Foſter.</hi>
+               </p>
+               <p>Theſe 12 being numbred, Proclamation in the uſual form was made for Information againſt the Priſoners at the Bar, and for Pro<g ref="char:EOLhyphen"/>ſecution from thoſe, who by Recognizance were obliged to it: And thoſe who were Impannelled for the Jury, but were not ſworn, were diſmiſſed.</p>
+               <p>Then the Jury were charged to enquire of <hi>John Baltee,</hi> upon the Indictment before mentioned, whether Guilty or Not Guilty of ſtealing the Tankard of <hi>Thomas Browning.</hi>
+               </p>
+               <p>To prove the Charge, one <hi>Elizabeth Web</hi> gave this Evidence, That the Priſoner at the Bar brought the Tankard to her houſe, and told her, he would either Pawn it, or ſell it: And being asked whoſe it was, he ſaid, It was not his own, but a Gentlemans hard by, who had ſent him with it to Pawn or Sell. She looking upon the Tankard, ſaw the Name of the Owner, and the Sign where he lived, engraven upon it, to whom ſhe ſent immediately to
+<pb n="6" facs="tcp:49156:4"/>know whether he had given the Priſoner Order to Sell it or Pawn it: and kept the Priſoner till he came, which when he did, he owned the Tankard, but denied the Priſoner had it with his Conſent, and ſo they carried him before the Juſtice.</p>
+               <p>
+                  <hi>Browning</hi> the Owner of the Tankard depoſed that he was a Cook, living behind the <hi>Exchange,</hi> that the Priſoner, the third of <hi>Decem<g ref="char:EOLhyphen"/>ber</hi> laſt, came in there with ſome other Perſons to drink, and ſtole the Tankard, and confeſſed the Matter before Sir <hi>William Turner.</hi>
+               </p>
+               <p>Sir <hi>William Turner's</hi> Clerk witneſſed his Confeſſion before Sir <hi>William,</hi> and that he ſaid, he was a poor fellow and in diſtreſs, and ſo took it to relieve his Wants.</p>
+               <p>The Priſoner being asked what he could now ſay to it, denied that he took it out of the houſe; but ſaid that a Man, whoſe name he could not tell, gave it him to pawn: he confeſſed his being at that Houſe that day; but was innocent of Stealing the Tankard. But not being able to prove his affirmation, it was left to the Jury to give what Credit they would to them.</p>
+               <p>The next that was tried, was <hi>Hannah Henman</hi> for ſtealing Silk from <hi>Mr. Rutty</hi> a Mercer in <hi>Lumbard-Street.</hi>
+               </p>
+               <p>The Witneſſes were Neighbours, who depoſed that the Priſoner with another Woman, went into <hi>Mr. Rutty</hi>'s Shop, and there ſnatch'd up the Silk and went away. They followed them, and laying hold on the Priſoner, the other ſlipt from them and ran for it; but they found the Silk about her; upon which they carried her before the Magiſtrate, who Comitted her. She being asked what defence ſhe could make, ſaid the other Woman told her ſhe had bought it, and gave it her to carry away; but could not produce the Woman, nor would tell the Name. Whereupon the Judge di<g ref="char:EOLhyphen"/>rected the Jury to find it according to ſo plain an Evidence; but becauſe the man had his Goods again, left the Value to their Con<g ref="char:EOLhyphen"/>ſideration.</p>
+               <p>The Jury then without coming from the Bar, agreed of their Verdict, which they gave in thus.</p>
+               <p>That, <hi>John Baltee</hi> was guilty of the Felony he was indicted for. And</p>
+               <p>That <hi>Hannah Henman</hi> was guilty of the Felony ſhe was indicted for; but they found the Value to be but 9 s.</p>
+               <p>After which they were diſcharged, and to appear at Three aclock <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in their Gowns.</p>
+               <pb n="7" facs="tcp:49156:4"/>
+               <p>Then the Priſoners of <hi>Middleſex</hi>-ſide, were called to the Bar, and bid to make their Challenges if they pleaſed. The Jury then were Sworn, whoſe Names were, <hi>John Cane, James Sutton, James Harper, William Rider, William Hardy, Charles Pickering, William Thomſon, Thomas Phelps, Stephen Lawrence, Thomas Cox, George Calcott, and John Burt.</hi>
+               </p>
+               <p>Proclamation for Information, and Proſecution being made as before, they went on to the Trials of the Priſoners. And the firſt was <hi>Samuel Thomſon,</hi> indicted for ſtealing a Silver Cup from <hi>Hal<g ref="char:EOLhyphen"/>ſtead,</hi> and <hi>Thomas Halſtead</hi> the Owner of the Cup gave this Teſti<g ref="char:EOLhyphen"/>mony againſt him.</p>
+               <p>That there came a Boy and the Priſoner together, and were walk<g ref="char:EOLhyphen"/>ing up and down the Street, and he ſent the Boy into the Shop where no body was; the Boy takes the Cup which was in the Shop, and coming to the Door gives it to the Priſoner. And one that was com<g ref="char:EOLhyphen"/>ing by, ſeeing the Boy give the Man ſomething, Cri'd out, upon which the Maſter of the Houſe came forth, and being told what was done, run after them and took the Priſoner with the Cup, but the Boy was loſt in a Croud or Twenty Boys more. That the diſtance of the Place where he was taken, from the Houſe whence the Cup was Stollen, was about twice the Length of the Court. That he did not carry the Cup openly, but hid it under his Coat.</p>
+               <p>To this, the Priſoner ſaid, he was coming by there, and the Boy (whoſe name he could not tell, nor had he ever ſeen him be<g ref="char:EOLhyphen"/>fore,) gave it him, ſaying he had taken it up by the Duſt Cart, and that was all he could ſay for himſelf. Being asked what Pro<g ref="char:EOLhyphen"/>feſſion he was of, he anſwered a Shoomaker. Upon which weak defence the Judge told the Jury, they were to conſider of the Fact and the Value, the Party having his Cup again.</p>
+               <p>The next with whom the Jury was charged was</p>
+               <p>
+                  <hi>Mary Read,</hi> for <hi>Mr. Higgins</hi>'s Ring, againſt whom <hi>Stephen Higgins</hi> depoſed thus.</p>
+               <p>That the Priſoner had been a Cuſtomer to the Shop for near a Twelve Month, and uſed to come with a high Crownd Hat co<g ref="char:EOLhyphen"/>vered with an Oyld Caſe like a Country Market Woman, and would ask for Rings of Juſt ſuch a Value, and would have them no more nor no leſs. She ſaid ſhe lived at <hi>Holloway,</hi> and came almoſt every week to the Shop; but yet ſhe never bought above two in all, ſhe only would cheapen, and he loſt a great many, which he believed ſhe ſtole from him. The Saturday before this Ring was gone, ſhe
+<pb n="8" facs="tcp:49156:5"/>came to buy a hollow Ring, which ſhe had, and paid for, all but nine pence, and then be loſt a Ring. Upon Thurſday following when ſhe came, having a ſuſpicion of her, he reſolved to lay wait for her. She came and asked for a Ring of ſuch a Value: He reach'd down a Box, in which there were Rings upon every Bin, and laid it before her, ſhe pitch'd upon one, which being weigh'd, ſhe ſaid was too heavy. He, to give her an Opportunity, turn'd his Back, and ſhe took hold on it, and put one into her Boſom. When he turn'd about he preſently miſs'd the Ring, and affirming the Box was full, tax'd her with it; but ſhe denied it, and offer'd to be Searched. A Gentlewoman who was by, and had ſeen her put it in her Boſom, told her ſo, and ſhe offering to undreſs her Self, they carried her into the Kitchin, and there opening her Boſom the Ring drop'd upon the Bricks in the Floor. And he ſaid it was the Fifth Ring ſhe had Stole from him.</p>
+               <p>The Woman teſtified her ſeeing the Priſoner put her hand to her Boſom, and that ſhe heard it fall upon the Bricks, but did not ſee it fall. The Value or the Ring was Sworn to be Seven Shillings.</p>
+               <p>The Priſoner with a great deal of whining denied the thing, and that it was but a Trick of the Goldſmiths to make her pay for Rings he had loſt. But the Court told the Jury, the Witneſſes Othes were to outway her bare Allegations, and left the Matter to them, for the Value.</p>
+               <p>Then was tried <hi>John Leake,</hi> for the Cloth of <hi>William Mackham,</hi> ſtoln off the Tenters, againſt whom the Witneſſes gave this Evi<g ref="char:EOLhyphen"/>dence.</p>
+               <p>
+                  <hi>Mackham</hi> Swore that he loſt two and Twenty Yards of Cloth off his Tenters, part of which was found in the hands of <hi>Suſan Rey<g ref="char:EOLhyphen"/>nolds,</hi> who ſaid ſhe had it from the Priſoner <hi>Leake,</hi> and other parts of it were found at the Dyers. He knew it to be his Cloth, and it was of a Popinjay Green Colour.</p>
+               <p>
+                  <hi>Suſan Reynolds</hi> atteſted that he brought the Cloth to her, and deſired her to lay it up for him till he called for it. That ſhe knew him, becauſe he had been with her Brother ſix or ſeven times at her houſe. That he told her he took up the Cloth to carry to Sea with him, and he found it in <hi>Good-mans</hi> Fields, he deſired her to lay up part, which was found in her houſe, and to carry part of it for him to the Dyers.</p>
+               <p>The Priſoner, who was a Luſty Fellow and an able Seaman, ſaid <gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ing, but that he found it, and being asked why he did not Cry it,
+<pb n="9" facs="tcp:49156:5"/>he ſaid he did not underſtand the way of it, but could give no Evi<g ref="char:EOLhyphen"/>dence that he found it. Therefore it was left to the Jury.</p>
+               <p>
+                  <hi>Thomas Napton</hi> was the next Priſoner, who was indicted for ſtealing Cloth from <hi>Walford,</hi> and <hi>Anthrobus,</hi> againſt whom this was the proof.</p>
+               <p>
+                  <hi>Ralph Walford</hi> teſtified that the Priſoner was a Poliſher of Look<g ref="char:EOLhyphen"/>ing-Glaſſes, and wrought and lodged in a place adjoyning to the Room where their Cloth lay. One morning about five of the Clock he comes to <hi>Walfords</hi> houſe, and ſaid that he had been Rob'd, that they had bound his feet with a Neckcloth, and his hands behind him with a Linen Stockin, and that after they were gone, he un<g ref="char:EOLhyphen"/>looſed himſelf, and unbound his feet, and riſing, look'd what Cloth was gone, and went to the other man <hi>Anthrobus,</hi> and brought him to ſee what was loſt; and there were found miſſing 2 Cloths of <hi>Wal<g ref="char:EOLhyphen"/>fords</hi> worth 8 <hi>s.</hi> odd Money, and a long Merchants Cloth of <hi>An<g ref="char:EOLhyphen"/>throbus</hi> worth 9 <hi>s.</hi> odd Money; that he let the Thieves in upon their knocking, thinking they had been the Perſons belonging to the Warehouſe; that he was not intruſted with the Cuſtody of the Cloth, but permitting him to have a Key to it, and paſſage through it, they thought their Cloth ſecurer for his lying there. That he would take a thouſand Oaths, the Cloth was there that night. That he confeſſed he made no Outcry when he was before Sir <hi>William Turner.</hi>
+               </p>
+               <p>
+                  <hi>Anthrobus</hi> ſwore he made ſuch a like ſtory to him, and ſaid it was his weakneſs that he did not cry out; that his Wife was gone out that morning by Three a clock to waſhing, as ſhe was indeed, and that the Thieves came about Four, and he came to them about Five; That he ſaid, he himſelf had loſt nothing unleſs 3 or 4 <hi>s.</hi> of his Wives, and his Kettle, which Kettle he had lent to his own Son in Law, 2 days before.</p>
+               <p>The Son in Law to <hi>Walford</hi> ſpeaks to the ſame effect, that he ſaid they nubled him about the Head, and bid him go to bed, you old Dog, and then bound him; that being told by <hi>Walfords</hi> wife, it was more like to be Evenings Work to take away the Cloth, than Mornings, he reply'd, for ought he knew it might be ſo, for he was out in the Evening, but when he came in, he did not miſs any of the Cloth, becauſe he knew not what was there. And afterwards ſaid, he bleſt be God he got no hurt, but they did beat their Piſtols about his head; and before had ſaid, he was almoſt killed. And the ſame Evidence the Woman gave. And upon theſe Circumſtances, they ſuſpected the Priſoner.</p>
+               <pb n="10" facs="tcp:49156:6"/>
+               <p>He denied the Felony, and told the ſtory in Court himſelf; and being asked whether they could not have found Rope, or any more likely thing to bind him with, than the Stock in and Neckcloth, he ſaid there was Rope enough, but it was not in the Room he lay in, but in the Warehouſe: he confeſſed he ſaid it might be the Evenings work, becauſe he had been forth, and did not ſee what the Thieves carried away. That it was his weakneſs he did not purſue them, and for fear he durſt not (though he could have done it) unbind himſelf till they were gone. That he appealed to the very Proſecutors, he had behaved himſelf honeſtly, wrought hard for his living, and was never taxed with the wronging any man of the worth of a Farthing. Which was acknowledged by the Witneſſes.</p>
+               <p>Hereupon the Court left it to the Jury, whether upon theſe Cir<g ref="char:EOLhyphen"/>cumſtances the Priſoner was guilty or not.</p>
+               <p>
+                  <hi>Jane Baley,</hi> and <hi>Mary Hipkins,</hi> were next tried for ſtealing linnen from Mr. <hi>Burdekin.</hi>
+               </p>
+               <p>Mr. <hi>Burdekin</hi> ſwore that he loſt the goods out of his houſe where his Family is conſtantly in <hi>Seacoal-Lane.</hi> That his Maid could tell how.</p>
+               <p>She depoſed, That ſhe went out of her Maſters houſe to fetch home a Child from School, and by a hole broken in the Window laid the key there, after ſhe had locked the door; and ſhe ſuppo<g ref="char:EOLhyphen"/>ſeth the door was opened by ſome that took the key out of the window, for ſhe found it open when ſhe returned, and that it was about four or five in the evening: and her Miſtris told her, the little Dog barking very much, made ſome that were above-ſtairs come down, who found the door open, but no body there; and about half an hour after they miſſed the things in the Indictment. That the reaſon of their accuſing theſe Women was, becauſe one of the Shirts was offered to be pawn'd by <hi>Jane Baley</hi> at <hi>Cow-croſs;</hi> and ſhe being examined, ſaid, ſhe bought it of <hi>Mary Hipkins;</hi> whom alſo they took upon ſuſpicion, but ſhe would confeſs nothing to them.</p>
+               <p>
+                  <hi>Jane Baley</hi> the Priſoner ſaid, That the other Priſoner <hi>Hipkins</hi> ſold it her at a houſe called the <hi>Two Brewers,</hi> for 4 <hi>s.</hi> and being af<g ref="char:EOLhyphen"/>terwards in want of money, would have pawn'd it. She could not produce any perſon that ſee her buy it, but ſhe brought one <hi>Mary Burket</hi> to teſtifie, that <hi>Hipkins</hi> had ſaid to her in her hearing, If ſhe did not like her bargain, ſhe would give her the money again upon her complaint it was too dear. And upon other diſcourſe,
+<pb n="11" facs="tcp:49156:6"/>
+                  <hi>Hipkins</hi> alſo was heard by her to ſay, That had it not been for a whiffling little Cur, ſhe would have done her work better than ſhe did.</p>
+               <p>All which the other Priſoner <hi>Hipkins</hi> denied, but had not the good hap to bring Evidence to diſprove it, but had offered the Pro<g ref="char:EOLhyphen"/>ſecutor a Bond for Compoſition. Upon which the Court left them both to the Jury.</p>
+               <p>
+                  <hi>Anne Mounſdel</hi> was the next, who was accuſed for ſtealing the Goods of <hi>Mary Braſier,</hi> and thus it was proved.</p>
+               <p>
+                  <hi>Mary Braſier</hi> teſtified, That the Priſoner was by her permitted to lodge in her Room for 6d. a week; and one day pretending to ſend her out of a falſe Errand, with a feigned Letter into the <hi>Strand,</hi> to a perſon whom ſhe could never find, and in the mean time robb'd her of a Gown and ſome Linen, and had got them quite away, if the Landlady of the houſe in which they both lodged had not ſtopp'd her, and taken her.</p>
+               <p>
+                  <hi>Eleanor Haſset,</hi> the Landlady, related her part of the Story thus, That the Priſoner got her Daughter to write her a Letter, upon promiſe of a Reward: That the Child told her, She ſuſpected the Priſoner was a Thief, and that ſhe her ſelf thought ſo too; and thereupon watched her, and ſaw her put on the Gown, after ſhe had ſent the Woman out, and was going away with the Linen in her Lap. She went after her, and fetch'd her back, though ſhe ran from her twice, and had her before the Juſtice, who committed her.</p>
+               <p>The Priſoner denied the Letter, or that ſhe ſent her out on her Errand; and ſaid, That the Woman had lent her the Gown, and the Linen ſhe was to have mended. But againſt the Poſitive Oaths of two Witneſſes, her bare word the Court thought not a ſufficient Counter-proof; however they left it to the Jury.</p>
+               <p>The next was <hi>Margaret Smith,</hi> for robbing one <hi>Meſſenger</hi> of ſome Sarſnet, and Plate, and Goods, to a very great value, and Money. <hi>Meſſenger,</hi> the Party robbed, depoſed, That ſhe lodged in his houſe, and in the time of <hi>Southwark-Fair</hi> laſt deſired him, and his Wife and Kinſwoman, to go with her to the Fair, where ſhe would make them merry, and left her Maid at home; who when they were all gone, got the Apprentice to go for a Peck of Oyſters, and in the mean time ſtole away the other things, all but the Silk. When they came home again, ſhe asked for her Maid; and being told ſhe was not within, ſhe cried out, I pray God I be not robbed; and ſo going to look, they found they were indeed
+<pb n="12" facs="tcp:49156:7"/>robbed, and ſo ſhe pretended ſhe was too. The next morning ſhe would have gone out, but the Kinſwoman would not let her go alone, becauſe ſhe had ſome jealouſie of her; and ſo went with her up and down where ſhe pretended to go ſee for her Maid, and to ſee among the Brokers Shops for the Goods: At laſt, when ſhe was in a Houſe at <hi>Houndſditch,</hi> ſhe ſlipt from her, and was not ſeen, till a Friend of hers coming to <hi>Meſſengers</hi> houſe, undertook to find her out, and met with her. She led them another dance, by pretending to go and receive money, which ſhe would fain have been per<g ref="char:EOLhyphen"/>mitted to do alone; but the Kinſwoman telling her, ſhe would not leave her, ſhe continued with them, and brought them to a Pewterers ſhop, where being ſate down to drink, the young Woman pull'd off her ſhoe to eaſe her foot, and the Priſoner took advan<g ref="char:EOLhyphen"/>tage of it, and ran away; but being overtaken, was committed to Priſon. And as to the Silk, ſhe had it on now at her Trial, which was left at the time of the Robbery.</p>
+               <p>The Priſoner denied any hand in the Robbery, and ſaid, that ſhe run away, becauſe being not very rich, ſhe was afraid of a Priſon, which they threatued her with. That for the Silk, ſhe did think it had been a Piece ſhe had ſent by her Maid to be Died, but could not prove it; nay had, after ſhe came from the Fair, ac<g ref="char:EOLhyphen"/>knowledged to the Kinſwoman, it was none of hers, but the Maids.</p>
+               <p>The Court examined her about her Quality and Eſtate. She ſaid, She had a Brother, a Gentleman in the Countrey, allowed her 20 <hi>l.</hi> a year, with which, and working to the <hi>Exchange,</hi> making about her acquaintance with one <hi>John Spittle,</hi> now in <hi>Newgate</hi> for Felony, ſhe could give no good account of it, which rendred them ſuſpicious of her. However, not finding any thing ſufficient to prove her guilty of the Robbery, except as Acceſſory, they ſo directed the Jury, and that as to the Silk, of which there was ma<g ref="char:EOLhyphen"/>nifeſt proof, they ſhould conſider the value, being Dy'd Silk.</p>
+               <p>With the Charge of theſe Priſoners the Jury went out, and had an Officer ſworn to keep them.</p>
+               <p>Then the Clerk for <hi>London</hi> Arraigned another Priſoner.</p>
+               <p>The Clerk for <hi>Middleſex</hi> Arraigned theſe following.</p>
+               <p>
+                  <hi>Edward Preſton</hi> of <hi>Hamwel</hi> Indicted, for that he, the 6th. of <hi>Octob.</hi> 1678. did ſteal a Mare, colour black, of the price of 3<hi>l.</hi> from one <hi>Edward Mullet;</hi> to which he pleaded Not Guilty, and put himſelf upon the Countrey.</p>
+               <pb n="13" facs="tcp:49156:7"/>
+               <p>
+                  <hi>Anne Harris</hi> Indicted, for that ſhe, the 17th. <hi>Septemb.</hi> 1678, did ſteal Goods of 10 <hi>s.</hi> value from <hi>John Jones.</hi> She pleaded Not Guil<g ref="char:EOLhyphen"/>ty, and put her ſelf upon the Countrey.</p>
+               <p>
+                  <hi>Richard Symel</hi> and <hi>Margaret Hutton</hi> Indicted; he, for that, the 2d. of <hi>Auguſt</hi> 1678. he did ſteal from <hi>Elizabeth Horner</hi> Goods to the value of 10<hi>l.</hi> and ſhe as Acceſſory. Both pleaded Not Guilty, and put themſelves upon the Countrey.</p>
+               <p>Then the <hi>Middleſex</hi> Jury return'd, and being agreed of their Verdict, the Fore-man gave it in thus:</p>
+               <p>That <hi>Samuel Thompſon</hi> was guilty of the Felony, but the Goods were but to the value of 10<hi>d..</hi>
+               </p>
+               <p>That <hi>Mary Read</hi> was guilty, but the Goods were but of the va<g ref="char:EOLhyphen"/>lue of 10<hi>d.</hi>
+               </p>
+               <p>That <hi>John Leak</hi> is guilty of ſtenling the Cloth off the Tenters.</p>
+               <p>That <hi>Thomas Napton</hi> is not guilty of ſtealing the Cloth of <hi>Mack<g ref="char:EOLhyphen"/>ham</hi> and <hi>Anthrobus,</hi> nor did ſlie for it.</p>
+               <p>That <hi>Jane Bailey</hi> is not guilty, nor did flie for it.</p>
+               <p>That <hi>Mary Hipkins</hi> is guilty of the Felony, but the Goods were but of the value of 10<hi>d.</hi>
+               </p>
+               <p>That <hi>Anne Mounſdel</hi> is guilty of the Felony whereof ſhe was Indicted.</p>
+               <p>That <hi>Margaret Smith</hi> is guilty of ſtealing the piece of Silk, which was but of the value of 10<hi>d.</hi> as to the reſt not guilty; where<g ref="char:EOLhyphen"/>upon the Court ordered an Indictment to be drawn up againſt her, as Acceſſory to the other Felony, of which there was ſtrong ſuſpicion.</p>
+               <p>The Verdict being Recorded, the Court Adjourned till 3 a Clock in the Afternoon.</p>
+            </div>
+            <div type="trial_accounts">
+               <head>Poſt Merid. eodem Die.</head>
+               <p>After Proclamation for attendance, the <hi>London</hi> Jury were called, and the Priſoners to their Challenges; which being none, the Jury were ſworn as before: And Proclamation for information and Pro<g ref="char:EOLhyphen"/>ſecution being made, they were charged to enquire of theſe Pri<g ref="char:EOLhyphen"/>ſoners. Firſt,</p>
+               <p>One <hi>White,</hi> of the <hi>Towre-Ward,</hi> was Indicted for Burglary; and acquitted.</p>
+               <p>The next that was tried was <hi>James Jackſon,</hi> for ſtealing the Tankard from <hi>Nicholas Jackſon,</hi> who depoſed thus;</p>
+               <p>That he did believe that to be the man who came into his houſe, and called for a Tankard of Ale and a Toſte, which when he had
+<pb n="14" facs="tcp:49156:8"/>eaten and drank up, he called for another; which while I went to draw, the Priſoner clapt down a Pewter Tankard inſtead of the Silver, and goes away. That he was a Victualler, at the Sign of the <hi>Cheſhire-Cheeſe</hi> in <hi>Thames-ſtreet.</hi> That he went to ſell it to a Gold-ſmith, who upon examination found that it was his.</p>
+               <p>Which the Gold-ſmith atteſted. But the Priſoner denied that ever he was in his houſe; and ſaid, That he had bought the Tan<g ref="char:EOLhyphen"/>kard five years ago, of one whom he did not know by name, nor could find, in the <hi>Minories.</hi> The Owner ſwore it was his Tankard, and that he was in his houſe that day. And the Court left it as a plain caſe to the Jury.</p>
+               <p>The third they were charged with, was <hi>Stephen Arrowſmith</hi> for the Rape committed on <hi>Elizabeth Hopkins.</hi> To prove which, a Girl of between 9 and 10 years of Age, gave this Teſtimony without being Sworn.</p>
+               <p>That ſhe ſaw in a Room, the Priſoner lying a top of the little Girl, but what they did ſhe knew not, but the Girls Petticoats were up, nor did ſhe cry out.</p>
+               <p>The Girl that was raviſhed, being between 8 and 9, teſtified that he had had to do with her for half a year together every Sunday, that ſhe was hindred from crying the firſt time, by his ſtopping her mouth, and that he gave her money afterwards; and ſhe never diſcovered it, till ſome of her friends obſerving her to go as if ſhe were very ſore, examined her, and by telling her ſhe would be in danger of hanging in Hell, got her to confeſs, that the Priſoner was her fathers Prentice.</p>
+               <p>One Mrs. <hi>Cowel</hi> did teſtifie that upon obſerving her going, and other Circumſtances, ſhe did reſolve to examine her, and made her confeſs, which ſhe did, and being ſearched, was found ſhamefully abuſed, and ſent to the Doctors to cure.</p>
+               <p>The like was atteſted by one Mrs. <hi>Sherwin,</hi> and by a Midwife, who ſaid, ſhe had got a very foul diſeaſe by it.</p>
+               <p>The Priſoner with a great many tears denied the Fact, and deſired ſome Witneſſes might be called. Among whom there was a maid that lived at the Doctors where the Girl was for Cure, who teſtified that the Girl upon Taxing her, why ſhe did conceal it, ſaid, ſhe took Pleaſure in it, and that upon Examination there were no Symptomes on the Priſoner, as the Doctor ſaid, of any ſuch diſeaſe as the Girl had, which was indeed the <hi>Pox;</hi> which was alſo atteſted by one Mrs. <hi>Rawlins:</hi> and the Priſoner proteſting his
+<pb n="15" facs="tcp:49156:8"/>Innocence, alledged that they offered a Compoſition.</p>
+               <p>All which notwithſtanding, the Court with great deteſtation and abhorrence of ſo Horrid and Vile an Offence, told him the Matter was ſo plain againſt him, that he muſt have as great impu<g ref="char:EOLhyphen"/>dence to deny it, as he had wickedneſs to Commit it; that her con<g ref="char:EOLhyphen"/>ſent would not ſave him, for the Statute provides, that a Child under 10 years of age, ſhould not be abuſed with, or without her Conſent. That the Firſt Violence whereby he ſtop'd her Crying, made the Rape, had it been a Woman above 10; that if the Pa<g ref="char:EOLhyphen"/>rents were ſo wicked, as to offer a Compoſition, yet that made not him innocent.</p>
+               <p>The Jury not ſeeming ſatisfied with the Evidence, the Lord Chief Juſtice <hi>Scroggs</hi> and others were of opinion, that the Girl that was Raviſhed, might give in her Teſtimony upon Oath; but it was forborn for the preſent, and left to the Jury. Who were ſent to<g ref="char:EOLhyphen"/>gether to conſider of their Charge, with an Officer ſworn to keep them according to Law.</p>
+               <p>In the mean time, the Clerk for <hi>Middleſex</hi> arraigned <hi>Mary Hut<g ref="char:EOLhyphen"/>chins</hi> of <hi>Fulham,</hi> indicted for that ſhe, the 3<hi>d.</hi> of <hi>Octob.</hi> 1678, did ſteal ſome Plate and Linen, from one, to which ſhe pleaded not guilty, and putteth her ſelf upon the Countrey.</p>
+               <p>
+                  <hi>Eliſabeth Gates</hi> for ſtealing a Cup of 14. <hi>s.</hi> Value from one <hi>Dennis King,</hi> the 14 of <hi>Novem.</hi> 1678. She pleads not guilty, and put her ſelf upon the Countrey.</p>
+               <p>After a conſiderable ſpace of time the Jury returned, and having anſwered to their Names as called, agreed that the Foreman ſhould ſpeak for them, and gave in this Verdict.</p>
+               <p>That <hi>James Jackſon</hi> was guilty of ſtealing <hi>Nicholas Jackſon's</hi> Tankard. And they offered this further.</p>
+               <p>That <hi>Stephen Arrowſmith</hi> was not guilty of the Rape: which Verdict Mr. <hi>Recorder,</hi> not conceiving it to be according to their Evidence, would not take from them without further deliberation, and labour'd to fatisfie them of the Manifeſtneſs of the Proof. One of the Jury being an Apothecary, ſaid it was his opinion, that a Child of thoſe years could not be Raviſhed. Which the Court told him was to Elude the Statute, that having provided a Puniſh<g ref="char:EOLhyphen"/>ment, had done it in vain, if there were no offence, and ſo he did tax the Wiſdom of a whole Parliament; Which ought not to be. Others of the Jury, becauſe the Girls were not ſworn, doubted of the ſufficiency of their Teſtimony, and they had nothing but
+<pb n="16" facs="tcp:49156:9"/>hearſay from the other Witneſſes. But the Court told them, in regard ſuch Offenders never call others to be by while they commit ſuch actions, they could expect no other Teſtimony than from the Party injured, which they had, and with it of an eye Witneſs, both whom they forbore to Swear, becauſe of the tenderneſs of their Age; but if they inſiſted upon it, they ſhould be Sworn.</p>
+               <p>Upon this the Jury went out again, and while they were delibe<g ref="char:EOLhyphen"/>rating, information was given to the Court, that they had the two Children with them, which was againſt the Law. Whereupon the Officer appointed to keep them, was ſent for, and it being ſworn againſt him, that he had admitted them in, he was ſent to <hi>Newgate,</hi> though he alledged another Officer brought them to him as from the Court, but that Officer ſwore the contrary, and therefore the other was detained in Cuſtody. The Jury being ſent for about this matter, when they came, ſaid, they ſent not for the Children, nor deſired to have them: and the Court to give further ſatisfaction, ſwore the Children, having examined them, whether they underſtood the nature of an Oath, and the danger of Perjury, which they gave a Rational account of. And the Jury went away again.</p>
+               <p>That <hi>Stephen Arrowſmith</hi> was guilty of the Rape, and they were diſcharged till the next morning at Ten of the clock: it being late, the Court was Adjourned till Seven.</p>
+            </div>
+            <div type="trial_accounts">
+               <head>
+                  <hi>Wedneſday</hi> the 12. of <hi>Dec.</hi> 1678. Nine of the Clock.</head>
+               <p>Proclamation was firſt made for Attendance.</p>
+               <p>Then the Clerk of <hi>Middleſex</hi> called for <hi>John Worſley,</hi> who was indicted for ſeducing the Kings Subjects from their Obedience, and from the Proteſtant Religion. But when he was brought up, the Court thought fit to defer his Arraignment and Trial till the next week.</p>
+               <p>He then Arraigned</p>
+               <p>
+                  <hi>Nathaniel Ruſſell</hi> and <hi>John Watſon,</hi> indicted, for that he the ſaid <hi>Ruſſell,</hi> 18. <hi>Nov.</hi> 1678. did voluntarily, and of malice fore<g ref="char:EOLhyphen"/>thought, with a Rapier give to <hi>William Midley</hi> a mortal wound on his Breaſt, of which he died, and that the ſaid <hi>Watſon</hi> was by, aiding, abetting, comforting, and maintaining. To which indictment both pleaded not Guilty, and put themſelves upon the Countrey.</p>
+               <p>Then the Priſoners were called to their challenges, and the <hi>Middleſex</hi> Jury ſworn; the uſual Proclamation made, and the Priſoners thus charged upon them in Order.</p>
+               <pb n="17" facs="tcp:49156:9"/>
+               <p>
+                  <hi>Mary Hutchins</hi> indicted for ſtealing a Sivler Cup and Linen, againſt whom the Evidence was,</p>
+               <p>That ſhe was a Servant in the Perſons houſe about a week, from whom the Cup was ſtolen. That ſhe being gone one morning out of the houſe, they miſſed ſeveral things. She being ſuſpected for them, and that ſhe was run away, Purſuit was made after her by a young man, who overtook her, and found the things about her; that he charged a Conſtable with her, and had all the things again.</p>
+               <p>The Priſoner could not deny her taking the Particulars, but the Owner having them again, the Value was left to the Jury.</p>
+               <p>
+                  <hi>Edward Preſton,</hi> indicted for ſtealing a Mare from <hi>Edward Mullet.</hi>
+               </p>
+               <p>
+                  <hi>Mullet</hi> himſelf depoſed, that the Priſoner was his Servant, and took the Mare out of his Ground, and carried her to <hi>Tame,</hi> and there ſold her for 30 <hi>s.</hi> and about 3 Weeks ſince he was taken.</p>
+               <p>The Perſon that took him, depoſed, that he confeſſed the taking of the Mare out of the Ground, and ſelling her.</p>
+               <p>The Priſoner ſaid he took the Mare, to go for a Dragooner, that when he came to <hi>Tame,</hi> the Troop he thought to go in, was gone; and he being aſhamed to carry the Mare back again, and in his diſtreſs for money, ſold her, but the man had the Mare again. Upon which confeſſion the Court left it to the Jury.</p>
+               <p>
+                  <hi>Eliſabeth Gates</hi> was tried for ſtealing a Silver Cup, of 14 <hi>s</hi> Value, from one <hi>Denniſe King.</hi>
+               </p>
+               <p>Who depoſed, that ſhe had confeſſed the Stealing to her, and that a little Girl had ſeen her in the houſe that day, but ſhe went away, and on <hi>Thurſday</hi> after was ſeen, and known by the Girl, Apprehended upon Suſpicion, and before the Juſtice confeſſed it.</p>
+               <p>The Priſoner did not deny being at the Womans houſe, but now denied the taking of the Cup from thence, and that ever ſhe confeſſed it. Upon which the Jury were directed to conſider of the Evidence, and the Value.</p>
+               <p>Then <hi>Richard Symell</hi> Indicted for ſtealing the goods of <hi>Eliſa<g ref="char:EOLhyphen"/>beth Horner,</hi> and <hi>Margaret Huſen,</hi> as acceſſory, after were tried.</p>
+               <p>
+                  <hi>Broccas</hi> a Conſtable, depoſed, that he took him, and before the Juſtice he confeſſed he took the things out of a Trunk and Box, and ſold them to the Priſoner <hi>Hutton,</hi> in whoſe houſe we found them.</p>
+               <pb n="18" facs="tcp:49156:10"/>
+               <p>
+                  <hi>Symel</hi> the Priſoner, for himſelf ſaid, He indeed did take them, but he thought they had been his Wives, for they were in her Lodging, who was then newly come from Service; and he thought he might make bold with them, being hers, and ſold them to the other Priſoners.</p>
+               <p>
+                  <hi>Hutton</hi> confeſſed ſhe bought them of the other man, but denied that ſhe knew them to be ſtoln Goods, or uſed to be ſuch; that he told her they were his own, and not his Wives.</p>
+               <p>
+                  <hi>Anne Harris</hi> was the next, who was Indicted for ſtealing the Goods of <hi>John Jones.</hi>
+               </p>
+               <p>Againſt whom <hi>Jane Harris,</hi> the Wife of <hi>John Harris,</hi> ſwore, that ſhe loſt Goods of a conſiderable value, and that the Priſoner was taken in <hi>Southwark</hi> ſelling part of them.</p>
+               <p>The Woman to whom ſhe offered them to ſale atteſted it, and that ſhe told her ſhe had bought them.</p>
+               <p>The Priſoner her ſelf ſaith, ſhe bought them of a man, but his name ſhe could not tell, nor where he lived. So the Court left her to the Jury.</p>
+               <p>One <hi>Wood</hi> was Indicted for ſtealing a Silver Cup of 9 <hi>s.</hi> value, of <hi>Robert Lambert,</hi> and was acquitted.</p>
+               <p>
+                  <hi>Thomas</hi> and <hi>John Johnſon</hi> Indicted for the unlawful taking the Lead off from <hi>Stepney-Church;</hi> the Evidence was this:</p>
+               <p>
+                  <hi>Knight,</hi> a Head-borough, was with his Watch going the round, ſaw a Ladder ſtanding on the ſide of the Church, and enquiring of the Clerk and the Sexton whether it were there by their Order, found it was not; and therefore taking away the Ladder, got up another way to the top of the Leads. But at the ſide of the wall, they found three parcels of Lead rolled up, and which was thrown down. When they came up, they found theſe two men there; be<g ref="char:EOLhyphen"/>ing asked what they did there at that time, all they would anſwer, was, It was their fortune to be there. But going onward, they found ſome more parcels of Lead, which they acknowledged they had cut up with a knife; the whole was about 950 <hi>l.</hi> weight, but none was removed away. They ſaid the Ladder was theirs, which was afterwards found to be another mans, and not lent by him neither.</p>
+               <p>The Priſoners ſaid; They heard a noiſe on the top of the Church, and went up to ſee what was the matter; but before they could get down, the Watch had taken away the Ladder: and they denied the
+<pb n="19" facs="tcp:49156:10"/>taking away of the Lead. The Court loft it to the Jury upon the Evidence.</p>
+               <p>
+                  <hi>Nathaniel Ruſſel</hi> and <hi>John Watſon</hi> Indicted, for the murder of <hi>William Midgley,</hi> againſt whom it was thus proved:</p>
+               <p>
+                  <hi>Dorothy Midgley,</hi> Siſter to the Perſon ſlain, depoſed, that <hi>Watſon,</hi> who was a Bailiff, came with <hi>Ruſſel</hi> to arreſt her for a debt of 3 <hi>l.</hi> which ſhe owed an Aunt of hers. And coming into the room, her Brother ſtood before, and was ſtabb'd by one of them immediately; that ſhe thinks it was <hi>Ruſſel</hi> ſtabb'd him: That he lived till <hi>Thurſ<g ref="char:EOLhyphen"/>day,</hi> and then died; and that he gave them no ill language.</p>
+               <p>
+                  <hi>Elizabeth Symmonds,</hi> who was then in the Room, teſtified, That the Boy did not give them any provocation; That he had a piece of a Curtain Rod, which ſhe did not ſee him lift up againſt them.</p>
+               <p>
+                  <hi>Rebeccah Niccols,</hi> who alſo was by, ſwore, That <hi>Watſon,</hi> when he came in, run him down into a Chair, and the other run him through. That <hi>Ruſſel</hi> came in with his Sword drawn, and they were heard from without to ſwear, they would kill any one that oppoſed them. <hi>Stephens,</hi> a Chirurgeon, proved, that he died of the wound.</p>
+               <p>
+                  <hi>Ruſſel</hi> the Priſoner, in his defence, ſaid, That the Plaintiff in the Action calling them up ſtairs, told them, they muſt look to them<g ref="char:EOLhyphen"/>ſelves, for there was a Young man intended to kill them. That upon their coming in, the Young man made at them with a bright thing, like a Spit or a Sword; and in his own defence, be retreat<g ref="char:EOLhyphen"/>ing back, doth not know how the Boy was wounded.</p>
+               <p>
+                  <hi>Watſon</hi> for himſelf ſaid, That being ordered by the Plaintiff to Arreſt <hi>Dorothy Midgley,</hi> when he came to the door, he heard the Boy ſay, I will run my Spit in ſome of your guts; but putting him aſide, he Arreſted his Priſoner, and heard ſome body cry out, I am killed; upon which he run to him, and opening his breaſt, there he found a great wound, and gave him ſome Brandy to drink, and covered him with a warm Napkin. That the Defendant <hi>Midgley</hi> came to him, and cut him over the face with a Pot, and asked him what he ſtaid there for, he had been the death of her Mother and her Brother. That about five years ago he had arreſted her Mother, and ſhe died in Execution; but he denied any hand in this Murder.</p>
+               <p>The Plaintiff in the Action ſaid, She did employ <hi>Watſon</hi> to Ar<g ref="char:EOLhyphen"/>reſt <hi>Dorothy Midgley,</hi> and that he went ſtreight forward to her, her Brother being by; and that a Fellow came in and wounded the
+<pb n="20" facs="tcp:49156:11"/>Boy, and run out again before he could cry out he was wounded: but who he was ſhe knew not; but ſhe did not ſee nor hear the Boy make reſiſtance, or give any provocation. That it was onely a piece of a Curtain Rod the Boy had in his hand, but neither ſtruck ſtroke with it, nor run at them.</p>
+               <p>Then the Writ and Warrant to juſtifie the Arreſt were read, whereby upon the Return it was found, that they had returned a Reſcous by the Party that was killed, which the Court told <hi>Watſon</hi> was a great Evidence againſt him. Whereupon directing the Ju<g ref="char:EOLhyphen"/>ry, they were told, that there being no provocation, the Law im<g ref="char:EOLhyphen"/>plied the malice to make it murder. But how far the perſons ac<g ref="char:EOLhyphen"/>cuſed were guilty, was left to them to conſider upon the Evidence.</p>
+               <p>Then the Jury withdrew to conſider of their Charge.</p>
+               <p>The Clerk for <hi>London</hi> Arraigned theſe Priſoners.</p>
+               <p>
+                  <hi>William Lucas</hi> Indicted, for that he, <hi>Decem.</hi> 2. laſt, did ſteal a Tankard of 6 <hi>l.</hi> value; confeſſed the Indictment, and himſelf to be guilty of that offence, and all within Clergy.</p>
+               <p>
+                  <hi>John Macarty,</hi> for ſtealing the ſame Tankard, pleaded Not Guilty, and put himſelf upon the Countrey.</p>
+               <p>
+                  <hi>George Cletheroe</hi> Indicted, for ſtealing ſome Linen from one <hi>John Delavier,</hi> he pleaded Not Guilty, and put himſelf upon the Countrey.</p>
+               <p>
+                  <hi>Ralph Leech</hi> Indicted, for that he, the 9th. of <hi>Octob.</hi> 1678. did ſteal from <hi>Henry Wood</hi> nine pair of Silk Stockings. He pleaded Not Guilty, and put himſelf upon the Countrey.</p>
+               <p>A Lieutenant and ſome Soldiers were Indicted for miſdemeanor committed by them, in endeavouring in a riotous manner to take away a Priſoner, the 16th. of <hi>November</hi> laſt, out of the Cuſtody of one <hi>Newton,</hi> a Serjeant in <hi>London.</hi> They all confeſs'd themſelves guilty of the offence, and ſubmitted to the Mercy of the Court.</p>
+               <p>Whereupon Mr. <hi>Lane,</hi> Comptroller of the Chamber of <hi>London,</hi> being of Counſel for the King, opened the Cauſe, to give the Court ſatisfaction in the matter: That one <hi>Sparks</hi> being Arreſted by <hi>Newton,</hi> told the Officer, he ought not to be Arreſted, becauſe he was a Soldier. The Officer told him, he had ſome reaſon to doubt it, becauſe he had not on the Kings Cloathing; but he ſhould have the liberty to ſend to ſuch of his Officers as he thought ſit. Upon which he ſent a Porter to the Serjeant of the Company of Granadiers, who not being met with, the Note was delivered to the Lieutenant; which when he had read, with great Paſſion
+<pb n="21" facs="tcp:49156:11"/>and Swearing he demands to know the Officers name, and curſing himſelf, ſaid, If he could meet with him, he would cut off his ears. He then gets his Company together, acquaints them with the buſineſs, leaves the main body of the Company in <hi>Cheapſide,</hi> over againſt <hi>Woodſtreet,</hi> ſelects a dozen out of them, and coming down <hi>Woodſtreet</hi> with Muskets, and Daggers in them, and with Oathes and Arms would have ſtormed the <hi>Counter,</hi> demanding the Priſoner. It was with great difficulty that they perſuaded him he was not in the <hi>Counter,</hi> but in a Houſe near by. Thither he goes curſing and ſwearing he would pull the Houſe down, fire the Houſe; and make that Rogue the Officer an Example for daring to Arreſt a Soldier. The Serjeant told him, Sir, I am not throughly ſatisfied he is a Soldier, and deſired to ſee the Muſter-Roll: But he would not vouchſafe to let him have that favour; take him away he would, and did, in triumph to the Offenders, and to the terror of all Civil Juſtice. The Lord Mayor and Court of Aldermen be<g ref="char:EOLhyphen"/>ing acquainted with the matter, order Mr. Recorder and the two Sheriffs to wait on the Lord General the Duke of <hi>Monmouth,</hi> to let him know the whole buſineſs, and to deſire him to deliver up the Offenders to be puniſhed. His Grace did immediately concur to it; and having Caſheer'd them from the King's Service, hath ſent them hither, where, ſaid he, we hope they will be ſatisfi'd now, as we are all well aſſured that, by the bleſſing of God, and the care and courage of our Magiſtrates, Soldiers, though they may and ought to aſſiſt, yet they ſhall never be permitted to be Arbiters and Comptrollers of Publick Juſtice.</p>
+               <p>The Lieutenant would have excuſed and palliated the matter; but the Council having <hi>Affidavits,</hi> and <hi>Viva voce</hi> to prove his Ac<g ref="char:EOLhyphen"/>cuſation, and it having been examined before the Lord Mayor and Court of Aldermen, they were committed to the Gaol in order to their Judgment.</p>
+               <p>Then the Jury for <hi>Middleſex</hi> returned with their Verdict, which the Foreman gave in thus:</p>
+               <p>That <hi>Mary Hutchins</hi> is guilty, but the Goods were but to the value of 10 <hi>d.</hi>
+               </p>
+               <p>That <hi>Edward Preſton</hi> is guilty of ſtealing the Mare.</p>
+               <p>That <hi>Elizabeth Gates</hi> is not guilty.</p>
+               <p>That <hi>Richard Symel</hi> is guilty, but the Goods were but to the value of 10 <hi>d.</hi> Whereupon <hi>Margaret Hutton,</hi> Indicted as Acceſſory, was diſcharged.</p>
+               <pb n="22" facs="tcp:49156:12"/>
+               <p>That <hi>Anne Harris</hi> is Guilty, but the goods were but to the Value of 10 <hi>d.</hi>
+               </p>
+               <p>That <hi>Margaret Wood</hi> is not guilty of the Felony, <hi>&amp;c.</hi> And</p>
+               <p>That <hi>Thomas</hi> and <hi>John Johnſon,</hi> are guilty of the Treſpaſs, in taking away the Lead from <hi>Stepney</hi> Church.</p>
+               <p>That <hi>Nathaniel Ruſſel,</hi> is guilty of Murder, in killing <hi>William Midgley.</hi> And</p>
+               <p>That <hi>John Watſon</hi> is not guilty of that Felony, and Murder.</p>
+            </div>
+            <div type="trial_accounts">
+               <p>An Officer of the Court, gave information upon Oath, that a Souldier leaning over the <hi>Bail Dock</hi> was ſpoke to come down, but refuſing, was pulled by him, whereupon he laid his hand to his Sword, and ſwore if he had him out, he would kill him: upon which information, the Court committed him to the Goal.</p>
+               <p>The Clerk for <hi>London</hi> called the Priſoners to their Challenges, Swore the Jury, and made Proclamation for Information and Pro<g ref="char:EOLhyphen"/>ſecution, in uſual Form. The firſt Priſoner tried was,</p>
+               <p>
+                  <hi>Ralph Leech,</hi> Indicted for ſtealing the Silk Stockins to the Value of 4 <hi>l.</hi> 10 <hi>s.</hi> Againſt whom, one</p>
+               <p>
+                  <hi>Summer</hi> depoſed, that he knew the Priſoner very well, and that the firſt of <hi>Octo.</hi> laſt, he ſaw him ſteal from Mr. <hi>Woods</hi> Shop 9 Pair of Silk Stockins. That he is a Workman to the Shop, as he is to other Hoſiers Shops; where coming in a morning betimes, he had Opportunity to look over the Silk Stockins, and ſometimes would buy. That this day looking over two Boards of Hoſe, he would now and then put a pair in his Breeches, till he had put in 9 Pair. Another Perſon being by, he deſired him to go for a Conſtable. Then the Priſoner offering to go away, he ſtay'd him, and asked him how many Pair he had bought, he anſwered, None. But, ſaid he, I muſt ſpeak with you Mr. <hi>Leech,</hi> and having him up ſtairs, told him he had ſomething more then was his own, he was in ſuch haſte to be gone, and urging him with it, he did d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſire him to be mercifull to him, or his Wife and Children were ruined, and pull'd out the Stockins 9 Pair in all, which when he was carried before Sir <hi>John Frederick,</hi> were produced againſt him, and he confeſſed it, ſaying, The Devil owed him a Shame.</p>
+               <p>The other Witneſs affirmed the ſame, and had ſeen ſomething before, which he did not like, but durſt not venture upon him, becauſe he was a great man in the Trade; and would have ruin'd him.</p>
+               <pb n="23" facs="tcp:49156:12"/>
+               <p>The Priſoner who was an old Man, with a very gray head, by Trade a Silk Stockin Trimmer, and of a plentifull Fortune, had nothing to ſay for himſelf, but that he took them for money they owed him, which poor excuſe was not accepted by the Court, but they directed the Jury to find him Guilty, upon ſo plain an Evi<g ref="char:EOLhyphen"/>dence.</p>
+               <p>Then <hi>Richard Bradſhaw</hi> was Indicted for High Treaſon, in clipping the Kings Coyn. To prove which, one</p>
+               <p>
+                  <hi>Brauthwayt,</hi> a Linnen Draper in <hi>Newgate</hi> Street, gave Evi<g ref="char:EOLhyphen"/>dence, that the Priſoner was his Apprentice, and that he heard he had given a neighbours boy, one <hi>John Jolliffe,</hi> ſome pieces of Silver, which being brought to me, he did acknowledge he had clipped them with a pair of Sciſſors, that were in Court. That he did uſe to truſt him, with receiving, and paying Money for him, but never knew any ill of him, nor found much clipped money among his Caſh. That he had taken him Apprentice without money.</p>
+               <p>Another Witneſs ſwore that he confeſſed it before Sir <hi>William Turner.</hi> And a Goldſmiths Boy ſhew'd ſome Ingots, which he had from that <hi>Jolliffe,</hi> who ſaid he had them from the Priſoner, but he was not to be found.</p>
+               <p>The Priſoner now had nothing to ſay for himſelf, but that he had the Silver from that <hi>Jolliffe.</hi> Upon which he was left to the Jury.</p>
+               <p>The next was <hi>John Macarty,</hi> for ſtealing a Silver Tankard, out of a houſe behind the Exchange.</p>
+               <p>The Boy of the Houſe teſtified that he, with <hi>William Lucas,</hi> who confeſſed the Felony, came to his Maſters houſe, who is a Cook; and while the Boy went down for a Pot of drink they called for, they ſtrep'd into the Kitchen where the Tankard was, and taking it thence, away they went, before he came up again. That the Tan<g ref="char:EOLhyphen"/>kard was there before he went down to draw the drink. That they came in friendly together, and went both away. That they had the Tankard again by means of a Woman, with whom <hi>Lucas</hi> left it to keep till he came out of Priſon, where he was, being taken that night by the Watch.</p>
+               <p>The Woman teſtified the delivery of it by <hi>Lucas,</hi> but ſhe ſaw not the other Man.</p>
+               <p>The Priſoner, for himſelf, ſaid he was puſhed and joſſed by the other man <hi>Lucas,</hi> whom he had never ſeen before in his life, and that upon their Fighting, the other invited him to drink, and
+<pb n="24" facs="tcp:49156:13"/>when the Boy was gone down to draw the drink, <hi>Lucas</hi> went into the Kitchin, and came out again, and called him out to go away with him, which he did, having no buſineſs there. The credit of which ſtory, upon the Boys poſitive Teſtimony, was left to the Jury.</p>
+               <p>Then <hi>Hannah Downes</hi> was tried, for ſtealing 4 <hi>l.</hi> in money, from <hi>Thomas Goddard</hi> in the <hi>Vintry.</hi> The Evidence was,</p>
+               <p>That ſhe being a poor Girl, was by them taken up, and upon recommendation, by a Letter from a Quaker, entertained in the houſe where ſhe lived about two Months, and then was bound Apprentice to the Woman: that the man leaving of his Britches, in which was the Key of the Ware-houſe, where the money was, ſhe had taken it, and taken away about 4 <hi>l.</hi> at ſeveral times; as ſhe confeſſed that ſhe run away to <hi>Rocheſter,</hi> and there was taken, and before the Juſtice confeſſed the thing.</p>
+               <p>The Priſoner ſaid, ſhe run away becauſe they abuſed her, and beat her, and pinched her in her Victuals, but denied ſhe ſtole any Money, or that ſhe did confeſs it. Which was ſubmitted to the Jury.</p>
+               <p>The next was <hi>George Hunt,</hi> for ſtealing Braſs Buckles, and ſome ſmall things. But it appeared upon the Evidence, a Proſecution out of Malice, becauſe of an Action of ſlander, by the Priſoner commenced againſt the Proſecutor. And there being no colour for the Accuſation, the Court directed the Jury to find the Priſoner not Guilty.</p>
+               <p>The laſt for <hi>London</hi> was <hi>George Clethoroe,</hi> Indicted for ſtealing the goods of <hi>John Delavier.</hi>
+               </p>
+               <p>One <hi>Burbeck</hi> depoſed, that about ſix of the clock in the Evening, the Priſoner came into the houſe, and going out, he ſaw him; and asked him what he did there; but received no anſwer. That he cried ſtop Thief, and upon that Outcry he ran, but was overtaken. That the Linnen which he is Indicted for, was taken out of the houſe, and dropt 4 or 5 houſes from that houſe.</p>
+               <p>Another man Witneſſed, that upon the cry of Stop Thief, he made towards the Priſoner, who to ſave himſelf, cry'd Stop Thief too, and when the Witneſs came up to him, Struck him; but he was Apprehended, notwithſtanding his reſiſtance. And one that ſaw the Linnen in that place, and took it up, atteſted it.</p>
+               <p>The Priſoner denied being in the houſe, and ſaid, that he was purſuing one that came out thence: but the firſt man affirmed poſitively that he was there, and that his Wife three days after
+<pb n="25" facs="tcp:49156:13"/>his Commitment came to entreat him not to proſecute him.</p>
+               <p>The Jury, after a ſhort receſs, did give in this Verdict of the Priſoners under their charge.</p>
+               <p>That <hi>Ralph Leech</hi> was guilty of the Felony he was Indicted for.</p>
+               <p>That <hi>Nicholas Bradſhaw</hi> was guilty of High-Treaſon.</p>
+               <p>That <hi>John Mackarty</hi> was guilty of ſtealing the Tankard.</p>
+               <p>That <hi>Hannah Downs</hi> was guilty of the Felony to the value of 9 <hi>s.</hi>
+               </p>
+               <p>That <hi>George Hunt</hi> was not guilty of the Felony he ſtands Indi<g ref="char:EOLhyphen"/>cted for: And the Court taking notice of the malicious proſecu<g ref="char:EOLhyphen"/>tion, gave him leave to take a Copy of the Indictment.</p>
+               <p>That <hi>George Clethero</hi> was guilty, but the Goods were but to the value of 10 <hi>d.</hi>
+               </p>
+               <p>Then the Court Adjourned till 3 of the Clock in the afternoon.</p>
+            </div>
+            <div type="trial_accounts">
+               <p>
+                  <hi>Poſt Meridiem eodem die.</hi>
+               </p>
+               <p>Proclamation of Attendance being made, the Lord Chief Baron called for the <hi>Granadiers,</hi> who were in cuſtody, and told Mr. <hi>Re<g ref="char:EOLhyphen"/>corder,</hi> That he being, by the cuſtom of the Court,, to give Sen<g ref="char:EOLhyphen"/>tence upon Offenders there, the Judges did give him their advice, That the Peace of the Kingdom was ſo nearly concerned in this Cauſe, that it deſerved an exemplary Puniſhment; and the loweſt Fine they would counſel him to ſet, was 200 <hi>l.</hi> upon the Lieute<g ref="char:EOLhyphen"/>nant, 50 <hi>l.</hi> upon the Serjeant, and 20 <hi>l.</hi> a piece upon the Common Soldiers. Which was by Mr. <hi>Recorder</hi> Sentenced accordingly, with this Reproof.</p>
+               <sp>
+                  <p>YOu that are the Priſoners at the Bar, the Court and the Government are ſenſible of the great af<g ref="char:EOLhyphen"/>front by you put upon the Authority of the Nation in general, and this City in particular, and what danger you might have brought your ſelves into: For you gave ſuch a Provocation, at ſuch a time, within the very heart of the City of <hi>London,</hi> that might have prov<g ref="char:EOLhyphen"/>ed the occaſion not onely of bloodſhed to others, but utter ruine to your ſelves. The Court, I ſay, and the Government, and your own General being ſenſible of this, and ſatisfi'd of your Guilt, have brought you hither,
+<pb n="29" facs="tcp:49156:14"/>where being under the Power of Juſtice, you ought to receive the Sentence of Juſtice for your great Offence; and becauſe your Crime is great, ſuch muſt be your Judgment. For though you are Soldiers, Gentlemen, and ought to have all due encouragement, yet you muſt not think, by the Authority of your Arms, to control the Authority of the Civil Magiſtrate. And becauſe the Lieutenant ſhould have known better his duty, and taught it to them under his care, his Fine muſt be the greateſt, becauſe his Knowledge was, or ſhould have been ſo, and deſerves the higheſt reſentment. The Ser<g ref="char:EOLhyphen"/>jeant, who ſhould have alſo known better, muſt recive a Puniſhment according to his Degree. And the Com<g ref="char:EOLhyphen"/>mon Soldiers, though under their Command, yet being great Offenders, muſt receive an exemplary Puniſh<g ref="char:EOLhyphen"/>ment. And I do in the name of the Court, and the Court doth Order, That the Lieutenant pay for a Fine 200 <hi>l.</hi> the Serjeant for his Fine 50 <hi>l.</hi> and each Common Soldier 20 <hi>l.</hi> to the King; and that they be Committed till they pay theſe ſeveral Fines.</p>
+               </sp>
+               <p>Then the Clerk for <hi>Middleſex</hi> Arraigned</p>
+               <p>
+                  <hi>Thomazine Davies,</hi> alias <hi>Sparks,</hi> alias <hi>Bailey,</hi> Indicted, for that ſhe, the 8th. of <hi>Decemb.</hi> 1678. an Indian Gown, and other things, to the value of 4 <hi>l.</hi> and 18 <hi>s.</hi> of money, did ſteal from <hi>Lewis Gaſtring.</hi> To which ſhe pleaded Not guilty, and put her ſelf upon the Countrey.</p>
+               <p>
+                  <hi>William Baker</hi> Indicted, for having two Wives, againſt the form of the Statute. Pleaded Guilty.</p>
+               <p>
+                  <hi>Judith Smith</hi> Indicted, for that ſhe, the 29th. of <hi>Octob.</hi> did ſteal ſome Linen of a ſmall value from <hi>John Smith.</hi> She pleaded Not guilty, and put her ſelf upon the Countrey.</p>
+               <p>
+                  <hi>James Furner</hi> of <hi>White-chappel</hi> Indicted, for that he, the 12th. of <hi>Novemb.</hi> 1678. did ſteal a <hi>Mare,</hi> colour brown, from one <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> He pleaded Not guilty, and put himſelf upon the Countrey.</p>
+               <pb n="27" facs="tcp:49156:14"/>
+               <p>
+                  <hi>James Smith</hi> Indicted, for that he, the laſt of <hi>Octob.</hi> 1678. did ſteal three Hogs, colour white, of the value of, every one of them 35 <hi>s.</hi> from <hi>Leonard Sanders.</hi> He pleaded Not guilty, and put him<g ref="char:EOLhyphen"/>ſelf upon the Countrey.</p>
+               <p>
+                  <hi>William Brayn</hi> Indicted, for that he, the 6th. of <hi>Septemb.</hi> 1678. did ſteal one Gelding, colour brown, from <hi>Ambros Galloway.</hi> He pleaded Not guilty, and put himſelf upon the Countrey.</p>
+               <p>
+                  <hi>Matthew Momford</hi> Indicted, for that he, the 23 <hi>d.</hi> of <hi>Novemb.</hi> 1678. being a Soldier in the Company of <hi>John Drew</hi> Eſq. a Ca<g ref="char:EOLhyphen"/>ptain in the Service of the King, there was a certain diſcourſe had between him and one <hi>Thomas Topping,</hi> and one <hi>James Sanders,</hi> concerning our Sovereign Lord the King, and the Religion in the Kingdom eſtabliſhed; he the ſaid <hi>Matthew Momford</hi> ſaid he was a Papiſt: Upon which the ſaid <hi>Topping</hi> and <hi>Sanders</hi> told him, he was not fit to be a Soldier then in the Kings Service. He re<g ref="char:EOLhyphen"/>pli'd, I hope to ſee you all burn'd, and to be at the burning of you. To this Indictment for a Contempt and Miſdemeanor he pleaded Not guilty, and put himſelf upon the Countrey.</p>
+               <p>Then the Priſoners were called to look to their Challenges, the Jury ſworn, and Proclamation being made for Information and Proſecution, as before, they were charged to enquire, Firſt, of</p>
+               <p>
+                  <hi>William Brayn,</hi> for ſtealing a Gelding from <hi>Ambros Galloway;</hi> againſt whom</p>
+               <p>One teſtifi'd his knowledge, that it was <hi>Ambros Galloways</hi> Horſe; and another, that he bought it of the Priſoner. But <hi>Am<g ref="char:EOLhyphen"/>bros</hi> himſelf, being a Quaker, would not, for Conſcience-ſake, as he ſaid, ſwear, and ſo could give no teſtimony about his loſing him. Upon which the Court directed the Jury to find the Priſoner Not guilty for want of Evidence, and committed the Quaker, as a con<g ref="char:EOLhyphen"/>cealer of Felony, for refuſing an Oath to Witneſs for the King.</p>
+               <p>
+                  <hi>Thomazine Davies,</hi> for ſtealing an <hi>Indian</hi> Gown and other goods, to the value of 4 <hi>l.</hi> and 18 <hi>s.</hi> in Money, from <hi>Lewis Ga<g ref="char:EOLhyphen"/>ſtring.</hi>
+               </p>
+               <p>
+                  <hi>Mary Gaſtring,</hi> the Wife of <hi>Lewis,</hi> ſwore, That going out to a Neighbours houſe, ſhe then loſt thoſe goods, and found them with the Priſoner at the Bar; that the things were in ſeveral Boxes and Trunks, but none broken open.</p>
+               <p>
+                  <hi>Walter Turner</hi> depoſed, That on <hi>Sunday 8th. Decemb.</hi> 1678. in the afternoon, walking in the Alley where this houſe was, he did
+<pb n="28" facs="tcp:49156:15"/>that Mrs. <hi>Gaſtring</hi> coming out, and complaining of her loſs, he told her what he had ſeen, and overtaking the Priſoner, upon pur<g ref="char:EOLhyphen"/>ſuit theſe things were found with her.</p>
+               <p>The Priſoner ſaid that another woman, with whom ſhe was drinking a pot of drink, gave them her, and deſired her to carry them for her to ſuch a place; which ſhe was going to do with the things in her Apron, but not telling the womans name, nor pro<g ref="char:EOLhyphen"/>ducing any Witneſs to prove it, the Court left it to the Jury.</p>
+               <p>Then <hi>Judith Smith</hi> was tried, for ſtealing the Goods of <hi>John Smith.</hi> Againſt whom,</p>
+               <p>
+                  <hi>John Smith,</hi> depoſed that he had loſt the Goods, in the Indict<g ref="char:EOLhyphen"/>ment, that ſhe confeſſed the ſelling of ſome part to the Brokers, and named many particulars, that he could not ſay, they were taken all at one time, but being his Servant, ſhe had opportunity to convey them away as ſhe pleaſed, and that he did not miſs them, till a fortnight after the time ſhe confeſſed of taking them.</p>
+               <p>The Priſoner for her ſelf only ſaid, that her Maſter charged her with more than ſhe had. Upon which confeſſion of part, and the things being taken at ſeveral times, and not all, the day laid in the Indictment, The Court left the value to the Jury.</p>
+               <p>
+                  <hi>James Turner</hi> for a Mare, colour Brown. Upon whoſe trial, it appearing that he had been Auterfoits acquit, the Jury were diſ<g ref="char:EOLhyphen"/>charged of him.</p>
+               <p>
+                  <hi>James Smith</hi> was next, for ſtealing three white Hogs from <hi>Leonard Sanders,</hi> who depoſed,</p>
+               <p>That he, the laſt of <hi>October, i. e. Allholland</hi> Eve, loſt two great Hogs, and a little one, worth 5 <hi>l.</hi> that he purſued them by the Track, but at laſt loſt his intelligence.</p>
+               <p>Another Witneſs ſwore, that he met the Priſoner <hi>Smith</hi> in the morning of that day, when he ſaid, he was going to buy Calves, and after, met him driving three Hogs, a little one, and two great ones, which he ſaid he drove for another, not for himſelf. <hi>Sanders</hi> not ſeeing the Hogs in <hi>Smiths</hi> poſſeſſion, nor the other Witneſs not minding them, could tell the marks, and therefore the Court asked the Priſoner, whoſe Hoggs they were that he drove that day, he denied he ever had any, or ſaw any. Which Evidence being un<g ref="char:EOLhyphen"/>certain as to the particulars charged, the Court left to the diſcretion of the Jury.</p>
+               <p>
+                  <hi>Matthew Momford,</hi> for his contempt and miſdemeanor, in ſpeaking the Words.</p>
+               <pb n="29" facs="tcp:49156:15"/>
+               <p>One of the Witneſſes ſwore, that the Priſoner being at his houſe to drink, upon ſome diſcourſe ſaid, he had been a Papiſt ſeaven years: then ſaid he, you are not fit to ſtand Sentinel where the King paſſeth, for you may kill him as he goes by you. Then in a fume he replied, I hope to ſee you burned, and be at the Burning of you.</p>
+               <p>The other ſaid, that <hi>Momford</hi> ſaid he was a <hi>Staffordſhire</hi> man: then ſaid the other, you muſt be a Papiſt, for all the <hi>Momfords</hi> in <hi>Staffordſhire</hi> are Papiſts, he replied ſo was he. Then you are not fit to be a Souldier; he in a paſſion cri'd out, he hoped to ſee us all burnt, and be at the burnig of us. They both ſaid he was in drink, with which the Priſoner would have excuſed the matter, but the Court told him it was no excuſe, but an aggravation. And left him to the Jury.</p>
+               <p>The laſt was <hi>John Spittle,</hi> for ſtealing the goods of <hi>Humphrey Wych.</hi> Againſt whom</p>
+               <p>
+                  <hi>Wych</hi> gave Evidence that he loſt ſuch goods as are charged in the Indictment, and found them in the Cuſtody of the Priſoner, and that the value was 7 <hi>s.</hi> And one <hi>Bayley</hi> depoſed, that being a neigh<g ref="char:EOLhyphen"/>bour of Mr. <hi>Wych,</hi> and ſitting in his Shop, he ſaw two Women and a Man, ſtanding at <hi>Wych</hi> his door, firſt one woman went in, then both, and went away, and the man went in, and coming out with ſomething under his Coat, he went and follow'd him, telling him what he had was not his own, and called to the man of the houſe, who coming out owned the things.</p>
+               <p>The Priſoner ſaid he found them at the door, but the Conſtable upon his Oath teſtifi'd that he confeſſed at his taking, that he had them out of the Drawer. The Court left it to the Jury, who after a little receſs being agreed of their Verdict concerning theſe Pri<g ref="char:EOLhyphen"/>ſoners, brought it in thus.</p>
+               <p>That <hi>Thomazine Davies,</hi> is guilty to the value of 10 <hi>d.</hi>
+               </p>
+               <p>That <hi>Judith Smith,</hi> is guilty to the value of 10 <hi>d.</hi>
+               </p>
+               <p>That <hi>William Brayne,</hi> is not guilty.</p>
+               <p>That <hi>James Smith,</hi> is not guilty.</p>
+               <p>That <hi>Matthew Momford,</hi> is guilty.</p>
+               <p>That <hi>John Spittle,</hi> is guilty to the value of 8 <hi>s.</hi>
+               </p>
+               <p>The Petit Juries for <hi>London</hi> and <hi>Middleſex</hi> were diſcharged.</p>
+               <p>Then the Court proceeded to Judgment upon the Priſoners, according their Convictions.</p>
+               <p>Thoſe to whom the benefit of Clergy, as Men; and the puniſhment of Branding, as Women, was allowed, were.</p>
+               <pb n="30" facs="tcp:49156:16"/>
+               <list>
+                  <head>In all 8. in <hi>London.</hi>
+                  </head>
+                  <item>
+                     <hi>Joſeph Brown,</hi>
+                  </item>
+                  <item>
+                     <hi>William Shakesby,</hi>
+                  </item>
+                  <item>
+                     <hi>John Baltee,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Jackſon,</hi>
+                  </item>
+                  <item>
+                     <hi>William Lucas,</hi> 
+                  </item>
+                  <item>
+                     <hi>John Macarty,</hi>
+                  </item>
+                  <item>
+                     <hi>Hannah Kinman,</hi> &amp;</item>
+                  <item>
+                     <hi>Hannah Downes,</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>In <hi>Middleſex.</hi>
+                  </head>
+                  <item>
+                     <hi>William Baker,</hi>
+                  </item>
+                  <item>and <hi>Anne Mounſdell.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>Ralph Leech</hi> for reſpect to his age, the Court took time to conſider after a very ſevere check, and having craved the benefit of his Clergy.</p>
+               <p>
+                  <hi>John Spittle,</hi> who deſired tranſportation, was ſet aſide for it.</p>
+               <p>
+                  <hi>John Paine,</hi> who had confeſſed himſelf guilty of Felony upon his Arraignment, for marrying a ſecond Wife, the firſt being alive, did deſire the benefit of his Majeſties late Gracious Act of Par<g ref="char:EOLhyphen"/>don. Which the Court upon peruſal of the Act thought fit to grant 1 him, but told him that he ought to make a recompence to the par<g ref="char:EOLhyphen"/>ties injured, which were both his Wives, for <hi>Poena poteſt dirimi, culpa perennis erit.</hi>
+               </p>
+               <p>The Perſons ti'd up by the Executioner for judgment of Death, were theſe Six.</p>
+               <p>
+                  <hi>Suſan Banſter,</hi> for ſtealing goods of 13 <hi>l.</hi> value, and who had been ſentenced to be tranſported before.</p>
+               <p>
+                  <hi>Stephen Arrowſmith,</hi> for a Rape committed upon <hi>Eliſabeth Hopkins,</hi> an Infant of 8 years of Age.</p>
+               <p>
+                  <hi>Nicholas Bradſhaw,</hi> for high Treaſon, in clipping the Coyn of this Kingdom.</p>
+               <p>
+                  <hi>John Leak,</hi> for ſtealing Cloth off of the Tenters, contrary to the Statute in that caſe provided.</p>
+               <p>
+                  <hi>Edward Preſton,</hi> for ſtealing of a Mare. Which by Statute alſo is deprived of benefit of Clergy. And,</p>
+               <p>
+                  <hi>Nathaniel Ruſſell,</hi> for the Murder of <hi>William Midgley.</hi>
+               </p>
+               <p>Theſe Perſons being ſeverally called to the Bar, and told of their Convictions, were demanded of, what they could ſay to arreſt the judgment of Death: they could alledge nothing, and therefore</p>
+               <p>Proclamation being made for Silence, while judgment was in giving, the Recorder ſpoke to them thus.</p>
+               <pb n="31" facs="tcp:49156:16"/>
+               <sp>
+                  <p>YOu that are the Priſoners at the Bar have been ſeverally Indicted of ſeveral Offences, and upon your Trials, you have had the benefit of the beſt of Laws, becauſe you have had the liberty of making your defence to the ſeveral Accuſations whereof you have been accuſed. You have been fully heard, and by Perſons of known integrity, who have been Triers of the Fact, and Countrey-men of your own, ſworn to do you Right; you have been Convicted of the ſeveral Offences wherewith you ſtand Charged, and nothing re<g ref="char:EOLhyphen"/>mains, ſave onely for the Court to do that Duty which the Law requires of them, to give Judgment upon thoſe Verdicts by which you ſtand Convicted.</p>
+                  <p>This is a Duty incumbent on the Court, though a ſad one; and I muſt confeſs, I cannot but be much trou<g ref="char:EOLhyphen"/>bled to ſee Youth arrived to that heighth of Debau<g ref="char:EOLhyphen"/>chery, notwithſtanding the frequent Examples that are found in this Place. So that I muſt ſay, and I tremble to think I am obliged to ſay, That the frequent Examples of this Place ſeem rather to be Examples to ſome to out<g ref="char:EOLhyphen"/>do the Villanies that are puniſhed here, than to deter them from the commiſſion of them.</p>
+                  <p>When I ſee ſome among you there, that now ſeem mighty full of grief, and ſenſe of the deplorable con<g ref="char:EOLhyphen"/>dition you have brought your ſelves into; who have had Mercy ſhewn them here, and yet continue to offend ſo gracious a King; when nothing will work upon you, but you will perſiſt in ſo vile an habit of wicked<g ref="char:EOLhyphen"/>neſs; it ſeems to me, that abſolutely neceſſary Judg<g ref="char:EOLhyphen"/>ment be ſpeedily executed upon you, there being ſo ſmall hopes of Reformation. I ſpeak this to let the World know, Mercy is not to be ſhewn to ſuch, as after forgivneſs ſin yet worſe.</p>
+                  <pb n="32" facs="tcp:49156:17"/>
+                  <p>And in as much as you have received fair and full Trials, upon which you have been Convicted, you have by your own vile carriages forfeited that Life, which you might elſe have happily enjoyed; and ſhorten'd that, which by your own induſtry you might have pre<g ref="char:EOLhyphen"/>ſerv'd and lengthen'd, to the comfort of your ſelves and Friends, and the good of your Generation. And now it remains onely for you to take care of that little, very little time that is left you, to improve it to the utmoſt, for the advantage of your immortal Souls. For having by your great wickedneſs and publick affronts to the Juſtice of the Nation forfeited your lives, it will be needful for you to employ the minute of breathing time to prepare for Eternity. For though the Law do inflict the puniſhment of death on you here, you have God in Heaven, and a bleſſed Saviour and Redeemer, to whom, upon Confeſſion and Repentance, you may with hopes apply your ſelves for mercy in the World to come.</p>
+                  <p>And it will be the duty of every good Chriſtian, not onely to take care, that being warned by your Examples, they avoid the miſchiefs you have run into, but alſo to joyn their Prayers, and all the aſſiſtance they can con<g ref="char:EOLhyphen"/>tribute, to the ſaving of your Souls, who by your Crimes have thus deſtroyed your Bodies.</p>
+                  <p>Some of your Offences are of a more vile, more black, and more dangerous nature than others; one of you ſtands Convicted of that moſt horrid Crime, <hi>Murder,</hi> blood which cries out to Almighty God for vengeance; Murder, I cannot but ſay, without any provocation; which is not onely an offence againſt the Law of God, but even againſt Nature, for one man to deſtroy another without a provocation. If there were no ſuch thing as a God in Heaven, or Juſtice upon Earth, Nature it ſelf teacheth a man not to be barbarous to his own likeneſs.
+<pb n="33" facs="tcp:49156:17"/>Therefore it will become thee to uſe all the tears thou canſt ſhed, to waſh away the blood thou haſt ſpilt, and that will not be enough to take off thy guilt; for nothing but the precious blood of our dear and bleſſed Lord and Saviour, the Lord Jeſus Chriſt, can ſave a man that is guilty of ſo great and horrible a wickedneſs as ſhedding innocent blood.</p>
+                  <p>And for the reſt, their offences have been ſuch, as by the Law are to be puniſhed with death. It will become you to betake your ſelves to Repentance; and I expect it from him whoſe proper buſineſs it is, that he give you all the aſſiſtance he can to promote ſo good a work, by helping you to ſpend your little time well, in order to a happy Eternity. This I have ſpoken in charity to your Souls. I do therefore in the name of the Court pronounce this Judgment upon you all, ſave onely the Youth that is convicted for clipping the Kings Coin, <hi>That you ſhall go from hence to the place from whence you came, and from thence to the place of Execution, where you ſhall ſeverally be hanged by your necks till you be dead; and Jehovah the Lord of Heaven and Earth have mercy upon your Souls.</hi>
+                  </p>
+               </sp>
+               <p>
+                  <hi>Then he applied himſelf to the Young Man for Treaſon, thus:</hi>
+               </p>
+               <sp>
+                  <p>YOu the Priſoner at the Bar, have likewiſe been Arraigned and Tried for an Offence, that by the Law is made High Treaſon, the Clipping of the Kings Coin. I am ſorry, heartily ſorry, and very much lament to ſee a Youth, in whom there ſeems to be ſo much modeſty, far from perſuading any one to believe, that any manner of Villany ſhould lurk underneath ſo promiſing and ſo good a Face, come under the guilt of
+<pb n="34" facs="tcp:49156:18"/>ſo great an Offence. But the truth of it is, the Appren<g ref="char:EOLhyphen"/>tices of <hi>London</hi> have got ſuch a Trade of abuſing their Maſters by Clipping, and ſuch tricks, which they are encouraged to by a pack of Goldſmiths Men, who are fit for their purpoſe, that if ſome of them be not made Examples, it will be the ruine of many. It is a diſeaſe that will run through the whole Flock. And I am ſorry to ſee you the firſt ſad lamentable inſtance of that Ju<g ref="char:EOLhyphen"/>ſtice, which muſt paſs againſt Offenders of that kind, whoſe modeſty ſhould have prevail'd upon you, not one<g ref="char:EOLhyphen"/>ly to look like a vertuous Boy, but ſo to have acted.</p>
+                  <p>But in as much as thou haſt offended the Law, it will become thee alſo, if thou haſt offended thy Maſter or any body elſe, to make them what reparation thou canſt, by making confeſſion of the offence, and diſco<g ref="char:EOLhyphen"/>vering the Parties that were concerned with thee, who<g ref="char:EOLhyphen"/>ever they are. For there can be no better means for Sal<g ref="char:EOLhyphen"/>vation in the next World, nor hopes of Mercy in this World, than by confeſſing thy Crimes, and telling the Accomplices, and 'tis my advice, Tell all thou knoweſt. But I muſt declare the Judgment of the Law, which is this, and the Court doth award it,</p>
+                  <p>
+                     <hi>That you are to go from hence to the place from whence you came, and from thence be drawn on a Hurdle to the place of Execution, where you ſhall be hanged by the neck till you be dead, and the Lord have mercy upon your Soul.</hi>
+                  </p>
+               </sp>
+               <p>Then <hi>Suſan Banſter</hi> being asked what ſhe could ſay in delay of Execution, ſhe deſired to be Tranſported.</p>
+               <p>Then the Priſoners Convict for Petty Larceny, who were theſe, <hi>George Cletheroe, Samuel Thompſon, Mary Read, Mary Hipkins, Margaret Smith, Mary Hutchins, Richard Symell, Thomazine Davies, Judith Smith,</hi> and <hi>Anne Harris,</hi> in all, Ten: whoſe Sentence was delivered thus:</p>
+               <pb n="35" facs="tcp:49156:18"/>
+               <sp>
+                  <p>YOu the Priſoners at the Bar, I have obſerved in the time that I have attended here, that your Pick-pockets, Shop-lifters, and you other Artiſts, which I am not ſo well acquainted with, which fill up this place, throng it moſt with Women, and generally ſuch as ſhe there, <hi>Mary Hipkins,</hi> with whom no admonitions will prevail. They are ſuch, whoſe happineſs is placed in being thought able to teach others to be cunning in their wickedneſs, and their Pride is to be thought more ſlie than the reſt: A parcel of Sluts, who make it their continual ſtudy to know how far they may ſteal, and yet ſave their necks from the Halter, and are as per<g ref="char:EOLhyphen"/>fect in that, as if they had never been doing any thing elſe. But take notice of it, you that will take no warn<g ref="char:EOLhyphen"/>ing, I paſs my word for it, if e'er I catch you here again, I will take care you ſhall not eaſily eſcape.</p>
+                  <p>And the reſt of thoſe Women, that have the impu<g ref="char:EOLhyphen"/>dence to ſmoke Tobacco, and gusſle in Ale-houſes; pretend to buy Hoods and Scarfs, onely to have an opportunity to ſteal them, turning Thieves to maintain your luxury and pride: So far ſhall you be from any hope of mercy, if we meet with you here for the future, that you ſhall be ſure to have the very rigour of the Law inflicted on you. And I charge him that puts the Sentence in Execution, to do it effectually, and particu<g ref="char:EOLhyphen"/>larly to take care of Mrs. <hi>Hipkins,</hi> ſcourge her ſound<g ref="char:EOLhyphen"/>ly; and the other Woman that us'd to ſteal Gold Rings in a Countrey Dreſs; and ſince they may have a mind to it this cold weather, let them be well heated.</p>
+                  <p>Your Sentence is this, <hi>That you be carried from hence to the place from whence you came, and from thence be dragg'd ti'd to a Carts-tail through the ſtreets, your
+<pb n="36" facs="tcp:49156:19"/>Bodies being ſtript from the Girdle upwards, and be Whipt till your Bodies bleed.</hi>
+                  </p>
+               </sp>
+               <p>
+                  <hi>John Leak,</hi> who was found guilty of ſtealing Cloth<g ref="char:punc">▪</g> off the Tenters, and received Sentence of death for it, according to the Act in that caſe, which alſo gives the Court power to Tranſport the Party, if they ſee fit, was by the Court Reprieved in order to Tranſportation, being an able Sea-man, and one that had done the King good ſervice at Sea.</p>
+               <p>The Priſoners Fined for Treſpaſs and Miſdemeanor, were <hi>Mat<g ref="char:EOLhyphen"/>thew Momford, Thomas Johnſon,</hi> and <hi>John Johnſon.</hi>
+               </p>
+               <p>To <hi>Matthew Momford,</hi> who was the Soldier that had ſpoken ſuch bad words, Mr. Recorder gave this Admonition:</p>
+               <sp>
+                  <p>YOu the Priſoner at the Bar, ſee now the great In<g ref="char:EOLhyphen"/>convenience that comes upon the debauchery of ſome People; you that ſeem to have no Religion in the World but when you are drunk. But you muſt not think, drunk or ſober, to revile the Proteſtant Religion, and go unpuniſhed for it. Let the times be thought ne<g ref="char:EOLhyphen"/>ver ſo dangerous, yet I hope it will be always ſeen, that the Magiſtrates of this City and Kingdom dare tell all Mankind, They do and will own the Proteſtant Religi<g ref="char:EOLhyphen"/>on, and dare curb the proudeſt He, who ſhall preſume to tranſgreſs our Laws, or offer to reproach our Religi<g ref="char:EOLhyphen"/>on. And all the Prieſts and Jeſuits they have ſhall never blow up any man to that heighth of Impudence, as to dare do any thing in contempt of the Government, or affront to our Religion, but we will be ſure to take down his pride, and make him know that he ſhall be ſubject to Juſtice. And ſo ſhall you find, who when you were drunk, could brag you were a Papiſt, and hoped to ſee Proteſtants burnt. You are an excellent man no doubt at a Faggot. Your contempt is very
+<pb n="37" facs="tcp:49156:19"/>great, and the Court is very ſenſible of it; and that all the World may take notice how ſenſible they are, and of their reſolution, that ſuch Offendors ſhall not go unpuniſhed; and that you may ſee, it ſhall not be a ſuf<g ref="char:EOLhyphen"/>ficient excuſe to ſay, You were drunk when you did it, and pretend to repent of it now you are ſober, and to turn Proteſtant again, We do think fit to lay a Fine of 100 <hi>l.</hi> upon you, and commit you in Execution till ſuch time as you pay it; and upon your Enlargement, you are to find Sureties for the Good Behaviour for ſeven years.</p>
+               </sp>
+               <p>To <hi>Thomas</hi> and <hi>John Johnſon,</hi> who ſtole the Lead off the top of <hi>Stepney-Church,</hi> he ſpoke thus:</p>
+               <sp>
+                  <p>YOu are Brethren in iniquity, <hi>Simeon</hi> and <hi>Levi.</hi> I find you are not Church-men the right way. But you are mightily beholding to the Conſtable, ſo much, that I think you ought to own it to him as long as you live; for if he had given you but half an hours time longer, you had been in a fair way to have been hanged. Your zeal for Religion is ſo great, as to carry you to the top of the Church. It is but a Treſpaſs, it is true, but I aſſure you one of the rankeſt that ever I heard of, it is Cozen-German to Felony. If that be your way of going to Church, it is fit you ſhould be taken no<g ref="char:EOLhyphen"/>tice of. Are you not aſhamed to have offered at the commiſſion of ſuch an offence, in a Place whereto, if you were men that had any regard to a future ſtate, you would pay a great reverence, becauſe good men meet there to pray againſt ſuch offences, not to commit them, as you did. The offence being ſo great, and the Treſpaſs ſo rank, the Puniſhment muſt bear ſome pro<g ref="char:EOLhyphen"/>portion
+<pb n="38" facs="tcp:49156:20"/>to it, which is this, <hi>The Court doth ſet a Fine upon you of</hi> 20 l. <hi>apiece, and commit you till you pay it to the Common Gaol of</hi> Newgate; <hi>and you are to find Sure<g ref="char:EOLhyphen"/>ties for the Good Behaviour before you be diſcharged.</hi>
+                  </p>
+               </sp>
+               <p>The Calling over the Gaol was left till the end of the Seſſions.</p>
+               <p>Then the Court was adjourned till <hi>Tueſday</hi> morning next, being <hi>Decemb.</hi> 17. at ſeven of the clock.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
